@@ -320,7 +320,7 @@ function SearchPage() {
     <div className="search-page">
       <div className="search-container">
         <header className="search-header">
-          <h1>🌍 Travel Recommendations</h1>
+          <h1>Travel Planner</h1>
           <p className="subtitle">Search for any country, capital, or city worldwide</p>
         </header>
 
